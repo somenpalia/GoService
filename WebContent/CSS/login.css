@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+.space{
+	width : 100%;
+	height : 20px;
+	float : left;
+}
+fieldset { 
+    display: block;
+    border: 1px solid dimgray;
+    width : 20%;
+    text-align:left;
+    padding-left:20px;
+    padding-right:20px;
+}
+input{
+	width : 100%;
+}
+input[type=email] {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=password] {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.foot-copyright{
+	width : 98.75%;
+	height : 160px;
+	float : left;
+	background : #333;
+	text-align : center;
+	padding : 8px;
+	color : white;
+}

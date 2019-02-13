@@ -1,0 +1,41 @@
+.foot{
+	width : 100%;
+	height : 400px;
+	background : #333;
+	color : white;
+	text-align : center;
+	float : left;
+	margin-bottom : 1000px;
+}
+.nav-top-foot{
+	height:40px;
+	background : dimgray;
+	float:left;
+	width:99.2%;
+	display : block;
+	padding : 5px;
+}
+.foot-help{
+	width : 100%;
+	height : 200px;
+	float:left;
+	display : block;
+	background : red;
+}
+.foot-help-in{
+	height : 200px;
+	float : left;
+	background:gray;
+}
+td a{
+	color : white;
+}
+.foot-copyright{
+	width : 98.75%;
+	height : 160px;
+	float : left;
+	background : #333;
+	text-align : center;
+	padding : 8px;
+	color : white;
+}
